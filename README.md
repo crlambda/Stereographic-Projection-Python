@@ -71,3 +71,9 @@ keywords: Stereographic Projection, python, 物理冶金, 晶體缺陷
 
 ▲ **(111) 投影圖於球體**
 
+## Usage
+
+1. install package `tkinter`
+2. Download all the files and put them in the same folder
+3. See Projections open `Projection1xx.ipynb` and run the code inside
+4. See Sphere Projections open `Project_sphere_tkinter.py`
