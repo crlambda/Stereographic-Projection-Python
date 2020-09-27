@@ -59,15 +59,15 @@ keywords: Stereographic Projection, python, 物理冶金, 晶體缺陷
 
 ---
 
-![100ball](https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.15752-9/106296387_296256185113570_4120106733186470162_n.png?_nc_cat=110&_nc_sid=b96e70&_nc_ohc=2_PmzKEd7vUAX-EZgoj&_nc_ht=scontent.ftpe7-1.fna&oh=b8978735c349f35d64bb3ced1ab138be&oe=5F1CBAC0)
+![100ball](https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.15752-9/106296387_296256185113570_4120106733186470162_n.png?_nc_cat=110&_nc_sid=b96e70&_nc_ohc=WPOgEJQyCewAX9d5ro4&_nc_ht=scontent.ftpe7-1.fna&oh=b09a7b94029fad16857d8e3b6bb4cfcb&oe=5F975640)
 
 ▲ **(100) 投影圖於球體**
 
-![110ball](https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.15752-9/106398188_274806526909701_8217067908496273162_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=To3DBmymMCkAX86WqK0&_nc_ht=scontent.ftpe7-1.fna&oh=2920bfaad6684aa23d3221fe8aca4bd6&oe=5F1A97FF)
+![110ball](https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.15752-9/106398188_274806526909701_8217067908496273162_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=EQoouuZu7cEAX9zaqhd&_nc_ht=scontent.ftpe7-1.fna&oh=284cd80902a66e6304bf4bfe13fc2de3&oe=5F95337F)
 
 ▲ **(110) 投影圖於球體**
 
-![111ball](https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.15752-9/105947616_316367839368518_3239856020578297935_n.png?_nc_cat=100&_nc_sid=b96e70&_nc_ohc=dvFm6hOznj4AX_j4pzs&_nc_ht=scontent.ftpe7-1.fna&oh=5fcd8604e59bdffb558adaded26c82ec&oe=5F198A4C)
+![111ball](https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.15752-9/105947616_316367839368518_3239856020578297935_n.png?_nc_cat=100&_nc_sid=b96e70&_nc_ohc=fbFdKJVnC3IAX9FDC-A&_nc_ht=scontent.ftpe7-1.fna&oh=0abd30325e4e1aeeb672e7ccdad6da86&oe=5F981A4C)
 
 ▲ **(111) 投影圖於球體**
 
